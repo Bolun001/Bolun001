@@ -10,10 +10,10 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bolun001&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [github@xiaorang](https://github.com/Bolun001)
-- :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
-- :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
-- :bird: [yuque@xiaorang](https://www.yuque.com/Bolun001)
+- :octocat: [github@Bolun](https://github.com/Bolun001)
+- :email: [gmail@Bolun](mailto:15019474951@gmail.com)
+- :tv: [bilibili@Bolun](https://space.bilibili.com/307881917)
+- :bird: [yuque@Bolun](https://www.yuque.com/Bolun001)
 
 
 | :pencil2: | :book:  |
