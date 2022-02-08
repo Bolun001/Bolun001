@@ -4,15 +4,18 @@
 <h3 align="center">A passionate Python developer from China</h3>
 
 ### 🌈 Github Stats:
+const disabled=true;
 <a href=""><img align="center" src="https://count.getloli.com/get/@Bolun001?theme=rule34"></a><br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Bolun001&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=Bolun001&theme=dracula">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bolun001&theme=monokai">
-
+  .disable {
+    pointer-events: none;
+  }
 ### 📫 How to reach me:
 - :octocat: [github@Bolun](https://github.com/Bolun001)
 - :email: [gmail@Bolun](mailto:leeboalun@gmail.com)
-- :tv: [bilibili@Bolun](https://space.bilibili.com/64520257)
+<!-- - :tv: [bilibili@Bolun](https://space.bilibili.com/64520257) -->
 
 
 
@@ -32,7 +35,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python and Machine learning...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
