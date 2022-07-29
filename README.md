@@ -19,7 +19,7 @@
 
 | :pencil2: | :book:  |
 | --- | --- |
-| [Blogs](https://Bolun001.github.io/) | [Books]() |
+| [Blogs](https://Bolun001.github.io/) | [Books](https://github.com/Bolun001/Books-and-gains) |
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
